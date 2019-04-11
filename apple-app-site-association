@@ -1,0 +1,14 @@
+{
+"webcredentials":{
+    "apps":["banggood.shop.bgaff"] 
+}
+
+"applinks": {
+	"apps": [],
+	"details": [{
+		"appID": "banggood.shop.bgaff",
+		"paths": [
+			"10086@186.com", ]
+	}]
+}
+}
